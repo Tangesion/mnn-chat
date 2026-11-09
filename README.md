@@ -1,6 +1,6 @@
-# MNN Pocket 帮助与隐私
+# MNN Chat 帮助与隐私
 
-MNN Pocket 的公开使用帮助、隐私政策及相关说明。网站提供简体中文和英文，无需登录。
+MNN Chat 的公开使用帮助、隐私政策及相关说明。网站提供简体中文和英文，无需登录。
 
 - [帮助中心](https://tangesion.github.io/mnn-chat/)
 - [隐私政策](https://tangesion.github.io/mnn-chat/privacy/)

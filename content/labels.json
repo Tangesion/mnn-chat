@@ -1,7 +1,7 @@
 {
   "support.delete.answer": {
-    "zh-Hans": "聊天在历史列表中删除，记忆在“设置 → Agent 记忆与技能”中另行清除。清除记忆后，请停止生成并新建对话。已下载模型可在模型列表删除，内置模型可能无法单独删除。这些操作不会清理已分享的副本、剪贴板、备份或第三方记录。",
-    "en": "Delete chats in History, and clear memory separately in Settings → Agent Memory and Skills. After clearing memory, stop generation and start a new chat. Downloaded models can be removed in the model list; bundled models may not be individually removable. Shared copies, clipboard contents, backups and third-party records are not cleared by these actions."
+    "zh-Hans": "聊天在历史列表中删除，记忆在“设置 → Agent 记忆与技能”中另行清除。清除记忆后，请停止生成并新建对话。已下载模型可在模型列表删除。这些操作不会清理已分享的副本、剪贴板、备份或第三方记录。",
+    "en": "Delete chats in History, and clear memory separately in Settings → Agent Memory and Skills. After clearing memory, stop generation and start a new chat. Downloaded models can be removed in the model list. Shared copies, clipboard contents, backups and third-party records are not cleared by these actions."
   },
   "support.delete.question": {
     "zh-Hans": "如何删除本地数据？",
@@ -12,8 +12,8 @@
     "en": "Describe the issue"
   },
   "support.download.answer": {
-    "zh-Hans": "模型负责在本机生成回答。可以直接使用已安装的模型，也可以从模型列表下载其他模型。下载前请查看大小和剩余空间，大文件建议使用 Wi-Fi。",
-    "en": "The model generates answers on your device. You can use an installed model or download another from the model list. Check its size and available storage first; Wi-Fi is recommended for large downloads."
+    "zh-Hans": "模型负责在本机生成回答。安装包不内置模型。首次对话前，请从模型列表下载一个适合您设备的模型。下载前请查看大小和剩余空间，大文件建议使用 Wi-Fi。",
+    "en": "The model generates answers on your device. The app ships without models. Before your first chat, download a model that fits your device from the model list. Check its size and available storage first; Wi-Fi is recommended for large downloads."
   },
   "support.download.question": {
     "zh-Hans": "模型是做什么的？",

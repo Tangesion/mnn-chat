@@ -4,7 +4,7 @@
       {
         "title": "Privacy at a glance",
         "paragraphs": [
-          "Ordinary conversations in MNN Pocket run on your device, and chats are saved locally. Model downloads, Agent searches and webpage reading use the internet.",
+          "Ordinary conversations in MNN Chat run on your device, and chats are saved locally. Model downloads, Agent searches and webpage reading use the internet.",
           "The current version is free, with no account required, advertising tracking, automatic usage analytics or crash uploads. System diagnostics, backups and sharing follow their own settings."
         ]
       },
@@ -49,7 +49,7 @@
         "title": "Storage and deletion",
         "paragraphs": [
           "Chats, attachments, summaries, models, settings and memory are kept in the app’s local data area. Chats and memory normally remain until deleted, cleared, updated or replaced; closing the app does not erase them. Downloads and model operation can create temporary files and caches.",
-          "Delete chats in History and downloaded models in the model list. Bundled models may not be individually removable. Removing a model does not delete chats or memory.",
+          "Delete chats in History and downloaded models in the model list. Removing a model does not delete chats or memory.",
           "Local deletion does not remove clipboard contents, shared copies, content in other apps, backups or third-party records, and does not guarantee irreversible physical erasure. The app has no chat cloud sync of its own. iCloud and computer backups follow system settings; restoring an old backup can restore earlier data. Offloading an app keeps its documents and differs from deleting it.",
           "Local data uses iOS app isolation and permissions. Protect device access, backups and sharing. These mechanisms do not mean every copy is encrypted or remove every security risk."
         ]
@@ -80,9 +80,9 @@
   "terms": {
     "sections": [
       {
-        "title": "Using MNN Pocket",
+        "title": "Using MNN Chat",
         "paragraphs": [
-          "MNN Pocket uses on-device models for conversations and supported media features. It also offers model downloads, Agent search, webpage reading, calculation and local memory. Capabilities depend on the model, device and app version.",
+          "MNN Chat uses on-device models for conversations and supported media features. It also offers model downloads, Agent search, webpage reading, calculation and local memory. Capabilities depend on the model, device and app version.",
           "The current version is free, with no subscriptions or in-app purchases. Network usage and third-party services you choose may have separate charges. Any future paid feature will have clear pricing and terms for you to choose separately."
         ]
       },
